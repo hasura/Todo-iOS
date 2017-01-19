@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA09D1F61E2DC8F900A8DEC4"
-               BuildableName = "Hasura-Todo-iOS.app"
-               BlueprintName = "Hasura-Todo-iOS"
-               ReferencedContainer = "container:Hasura-Todo-iOS.xcodeproj">
+               BlueprintIdentifier = "D17399D8BD88AE799F9A969C63CF4487"
+               BuildableName = "Pods_Hasura_Todo_iOS.framework"
+               BlueprintName = "Pods-Hasura-Todo-iOS"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA09D1F61E2DC8F900A8DEC4"
-            BuildableName = "Hasura-Todo-iOS.app"
-            BlueprintName = "Hasura-Todo-iOS"
-            ReferencedContainer = "container:Hasura-Todo-iOS.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA09D1F61E2DC8F900A8DEC4"
-            BuildableName = "Hasura-Todo-iOS.app"
-            BlueprintName = "Hasura-Todo-iOS"
-            ReferencedContainer = "container:Hasura-Todo-iOS.xcodeproj">
+            BlueprintIdentifier = "D17399D8BD88AE799F9A969C63CF4487"
+            BuildableName = "Pods_Hasura_Todo_iOS.framework"
+            BlueprintName = "Pods-Hasura-Todo-iOS"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DA09D1F61E2DC8F900A8DEC4"
-            BuildableName = "Hasura-Todo-iOS.app"
-            BlueprintName = "Hasura-Todo-iOS"
-            ReferencedContainer = "container:Hasura-Todo-iOS.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

@@ -1,0 +1,6 @@
+framework module Pods_Hasura_Todo_iOS {
+  umbrella header "Pods-Hasura-Todo-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
